@@ -43,9 +43,9 @@ Cuota fija mensual: **5 €**
 | 3º C | Mª Antonia González | 2026-05 | 0,00 € 🟢 |
 | 3º D | Teófilo Montes | 2026-04 | **5.00 €** 🔴 |
 | 3º E | Miha Midhri | 2022-05 | **240.00 €** 🔴 |
-| 3º F | Juan Carlos Moreno | 2026-01 | **20.00 €** 🔴 |
+| 3º F | Juan Carlos Moreno | 2025-12 | **25.00 €** 🔴 |
 | 3º G | Jose Manuel Talaván | 2027-01 | 0,00 € 🟢 |
 
 ---
 ## 📊 Resumen Ejecutivo Financiero
-* **Fondo Reclamable Pendiente de Cobro:** 720.00 €
+* **Fondo Reclamable Pendiente de Cobro:** 725.00 €
