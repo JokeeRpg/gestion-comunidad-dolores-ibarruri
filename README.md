@@ -16,12 +16,12 @@ Cuota fija mensual: **5 €**
 ## 🔹 Planta: 1º
 | Piso | Propietario / Titular | Estado de Pago | Cantidad Adeudada |
 | :--- | :--- | :--- | :--- |
-| 1º A | Beatriz Rodríguez | 2025-10 | **35.00 €** 🔴 |
+| 1º A | Beatriz Rodríguez | 2025-09 | **40.00 €** 🔴 |
 | 1º B | Junta de Extremadura | Gestionado | 0,00 € 🟢 |
 | 1º C | Marcelo Pérez | 2027-06 | 0,00 € 🟢 |
 | 1º D | Antonio Alegría | 2026-06 | 0,00 € 🟢 |
 | 1º E | Ángel Vázquez | 2025-02 | **75.00 €** 🔴 |
-| 1º F | Luis Palacios | 2025-12 | **25.00 €** 🔴 |
+| 1º F | Luis Palacios | 2025-11 | **30.00 €** 🔴 |
 | 1º G | Mª Isabel Cáceres | 2026-06 | 0,00 € 🟢 |
 
 ## 🔹 Planta: 2º
@@ -42,10 +42,10 @@ Cuota fija mensual: **5 €**
 | 3º B | Saadia Haidar | 2026-07 | 0,00 € 🟢 |
 | 3º C | Mª Antonia González | 2026-05 | 0,00 € 🟢 |
 | 3º D | Teófilo Montes | 2026-04 | **5.00 €** 🔴 |
-| 3º E | Miha Midhri | 2022-06 | **235.00 €** 🔴 |
+| 3º E | Miha Midhri | 2022-05 | **240.00 €** 🔴 |
 | 3º F | Juan Carlos Moreno | 2026-01 | **20.00 €** 🔴 |
 | 3º G | Jose Manuel Talaván | 2027-01 | 0,00 € 🟢 |
 
 ---
 ## 📊 Resumen Ejecutivo Financiero
-* **Fondo Reclamable Pendiente de Cobro:** 705.00 €
+* **Fondo Reclamable Pendiente de Cobro:** 720.00 €
