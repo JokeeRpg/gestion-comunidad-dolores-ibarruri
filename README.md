@@ -40,11 +40,11 @@ Cuota fija mensual: **5 €**
 | :--- | :--- | :--- | :--- |
 | 3º A | Junta de Extremadura | Gestionado | 0,00 € 🟢 |
 | 3º B | Saadia Haidar | 2026-07 | 0,00 € 🟢 |
-| 3º C | Mª Antonia González | 2026-05 | 0,00 € 🟢 |
+| 3º C | Manuel Nuevo Ramada | 2026-05 | 0,00 € 🟢 |
 | 3º D | Teófilo Montes | 2026-04 | **5.00 €** 🔴 |
 | 3º E | Miha Midhri | 2022-05 | **240.00 €** 🔴 |
 | 3º F | Juan Carlos Moreno | 2025-12 | **25.00 €** 🔴 |
-| 3º G | Jose Manuel Talaván | 2027-01 | 0,00 € 🟢 |
+| 3º G | Jonathan | 2027-01 | 0,00 € 🟢 |
 
 ---
 ## 📊 Resumen Ejecutivo Financiero
