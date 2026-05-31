@@ -8,7 +8,7 @@ Cuota fija mensual: **5 €**
 | Piso | Propietario / Titular | Estado de Pago | Cantidad Adeudada |
 | :--- | :--- | :--- | :--- |
 | Bajo A | Sacramento Fernández | 2026-07 | 0,00 € 🟢 |
-| Bajo B | Ángel Fernández | 2025-03 | **70.00 €** 🔴 |
+| Bajo B | Ángel Fernández | 2025-07 | **50.00 €** 🔴 |
 | Bajo C | Rafaele Vargas | 2024-06 | **115.00 €** 🔴 |
 | Bajo D | Martín Talaván | 2027-01 | 0,00 € 🟢 |
 | Bajo E | Ángela Pardo | 2024-06 | **115.00 €** 🔴 |
@@ -40,7 +40,7 @@ Cuota fija mensual: **5 €**
 | :--- | :--- | :--- | :--- |
 | 3º A | Junta de Extremadura | Gestionado | 0,00 € 🟢 |
 | 3º B | Saadia Haidar | 2026-07 | 0,00 € 🟢 |
-| 3º C | Manuel Nuevo Ramada | 2026-05 | 0,00 € 🟢 |
+| 3º C | Manuel Nuevo Ramada | 2026-12 | 0,00 € 🟢 |
 | 3º D | Teófilo Montes | 2026-04 | **5.00 €** 🔴 |
 | 3º E | Miha Midhri | 2022-05 | **240.00 €** 🔴 |
 | 3º F | Juan Carlos Moreno | 2025-12 | **25.00 €** 🔴 |
@@ -48,4 +48,4 @@ Cuota fija mensual: **5 €**
 
 ---
 ## 📊 Resumen Ejecutivo Financiero
-* **Fondo Reclamable Pendiente de Cobro:** 725.00 €
+* **Fondo Reclamable Pendiente de Cobro:** 705.00 €
