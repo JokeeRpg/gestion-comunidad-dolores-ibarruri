@@ -11,7 +11,7 @@ public class GestionComunidad {
 
     // Constantes de configuración de la comunidad
     private static final int CUOTA_MENSUAL = 5;
-    private static final YearMonth MES_ACTUAL = YearMonth.of(2026, 6); 
+    private static final YearMonth MES_ACTUAL = YearMonth.of(2026, 9); 
     private static final String FILE_ENTRADA = "propietarios.csv";
     private static final String FILE_SALIDA = "README.md";
     
